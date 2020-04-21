@@ -32,8 +32,8 @@ class Viking extends Soldier {
     }
   }
 
-  battlecry() {
-    return '"Odin Owns You All!"'
+  battleCry() {
+    return "Odin Owns You All!"
   }
 }
 
